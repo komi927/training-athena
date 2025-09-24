@@ -62,3 +62,7 @@ make setup-claude-api-key
 >
 > - AnthropicのAPIキーが必要です。GitHub Secretsに `ANTHROPIC_API_KEY` を設定してください。
 > - [GitHub App](https://github.com/organizations/athenatech-jp/settings/installations/68033881)ページで、リポジトリアクセスを許可してください。
+
+##git pullのテスト
+この文章はgithub上で編集したもの
+git pullを行い差分が反映されていることを確認する
